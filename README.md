@@ -1,0 +1,1 @@
+Notes, samples, prompts, and labs for my preparation for the CCIE Enterprise Infrastructure Lab

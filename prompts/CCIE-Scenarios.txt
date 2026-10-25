@@ -1,3 +1,5 @@
+Model: Sonnet 5.5 Medium
+
 I am preparing for my CCIE Enterprise core, and have completed a skills assessment to evaluate where I stand on the CCIE Enterprise Infrastructure Blueprint.
 
 Using the knowledge assessment, create CCIE level design scenarios to help assess my skills.
