@@ -1,0 +1,14 @@
+I am preparing for my CCIE Enterprise core, and have completed a skills assessment to evaluate where I stand on the CCIE Enterprise Infrastructure Blueprint.
+
+Using the knowledge assessment, create CCIE level design scenarios to help assess my skills.
+
+The scenario should outline:
+
+- Customer
+- Business Requirements
+- Constraints
+- Tasks
+
+Provide notes on habits to practice before the questions on tasks.  
+
+For each scenario ask 10 - 15 questions, including single/multiple choice or order of operations.  Provide the scenario in a document, create a simlet environment to run through the questions, once complete provide a result that can be shared for evaluation and review.

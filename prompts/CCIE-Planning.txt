@@ -1,0 +1,14 @@
+Model: Sonnet 5.5 Medium
+
+I am preparing for my CCIE Enterprise core, I just passed the CCNP ENCOR exam and want to hit the ground running on the CCIE.  I have attached the blueprint for the exam, which contains all possible topics that could appear on the exam.
+
+What I need from you:
+
+Create a planning artifact and help me come up with a realistic schedule to practice and study so I can take the exam in the new year.  Adjust the dates based on readiness from the knowledge assessment. 
+
+Create a knowledge assessment artifact:
+
+- Make one study plan doc I can keep updating: goal, schedule, section scorecard, gap remediation, a mistakes log (newest first: date, topic, correct idea, symptom), and next steps.
+- Remediate gaps with builds, break/fix drills, and recall practice, not just reading. Put builds in my CML topology.
+- Give me a candid timeline check against my weekly hours and target date, including when to book the lab and what to check about rescheduling.
+- Keep chat replies short and practical
